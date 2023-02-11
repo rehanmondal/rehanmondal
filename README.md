@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently working on Machine Learning Projects<br>I am Learning  Data Science<br>I have skill on the followings-<br>Python with Framework Flask <br>Database schema using MySql, SQLAlchemy<br>HTML5,CSS3,JQuery<br>Object-Oriented Programming<br>TDL(Tally Development Language)<br>API Integration, Data Slicing etc.<br><br><br>
+I am Currently working on Machine Learning Projects<br>I am Learning  Data Science<br>I have these skills : Python with Framework Flask  ,Database schema using MySql , SQLAlchemy<br>HTML5,CSS3,JQuery,Object-Oriented Programming, TDL(Tally Development Language),API Integration, Data Slicing etc.
 
 
 ## 🌐 Socials:
@@ -12,9 +12,7 @@ I am Currently working on Machine Learning Projects<br>I am Learning  Data Scien
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rehanmondal&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rehanmondal&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rehanmondal&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rehanmondal&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
