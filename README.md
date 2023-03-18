@@ -26,8 +26,7 @@ Generating JSON Web Token,<br>REST APIs,HTML5,CSS3,JQuery,Object-Oriented Progra
 ![](https://github-readme-stats.vercel.app/api?username=rehanmondal&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rehanmondal&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rehanmondal&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=rehanmondal&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rehanmondal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
