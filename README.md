@@ -3,7 +3,7 @@ I am Currently working on Machine Learning Projects <br>I am Learning  Data Scie
 Generating JSON Web Token,<br>REST APIs,HTML5,CSS3,JQuery,Object-Oriented Programming, TDL(Tally Development Language),API Integration, Data Slicing etc.
 
 
-## 🌐 Socials:
+## 🌐 Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehanmondal01) 
 
 ## 💻 Tech Stack:
