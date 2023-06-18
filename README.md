@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am Currently working on Machine Learning Projects <br>I am Learning  Data Science<br>I have these skills : Python with Framework Flask  ,Database schema using MySql ,Build REST API,
+I am Currently working on Automation Projects <br>I am Learning  Data Science<br>I have these skills : Python with Framework Flask  ,Database schema using MySql ,Build REST API,
 Generating JSON Web Token,<br>REST APIs,HTML5,CSS3,JQuery,Object-Oriented Programming, TDL(Tally Development Language),API Integration, Data Slicing etc.
 
 
