@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am a Robotic Process Automation Engineer<br>I am also learning  Data Science<br>I have these skills : Python with Framework Flask  ,Database schema using MySql ,Build REST API,
+I am a Robotic Process Automation Engineer, currently working on Automation Projects using Python with Selenium.<br>I am also learning  Data Science<br>I have these skills : Python with Framework Flask  ,Database schema using MySql ,Build REST API,
 Generating JSON Web Token,<br>REST APIs,HTML5,CSS3,JQuery,Object-Oriented Programming, TDL(Tally Development Language),API Integration, Data Slicing etc.
 
 
